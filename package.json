@@ -1,0 +1,21 @@
+{
+  "name": "ci_cd_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "node math.test.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saadcui/CI_CD_Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saadcui/CI_CD_Tests/issues"
+  },
+  "homepage": "https://github.com/Saadcui/CI_CD_Tests#readme"
+}
